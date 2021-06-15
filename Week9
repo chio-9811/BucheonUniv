@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>1751020최진성 9주차과제</title>
+	<style>
+		body{
+			background-color: yellow;
+		}
+		span:hover{
+			color:pink;
+
+		}
+
+	</style>
+</head>
+<body>
+<h3>커피메뉴</h3>
+<hr>
+<ul>
+	<li>Cafe americano</li>
+	<li>Cafe latte</li>
+	<li>Espresso</li>
+</ul>
+
+</body>
+</html>
